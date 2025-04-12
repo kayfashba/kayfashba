@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<p><img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" height="200" /></p>
+<p><img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" height="200" wheight="500" /></p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🙍‍♂️ About Me:
