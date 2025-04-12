@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
 <img src="https://img.freepik.com/free-vector/cute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_138676-6881.jpg" alt="">
+<img src="./animation_500_kxa883sd (1).gif" alt="">
 
 💻 I'm interested in:
 - Web development
