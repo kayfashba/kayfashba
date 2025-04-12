@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Firdavs.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<img src="https://png.pngtree.com/illustrations/20190321/ourmid/pngtree-blue-financial-technology-cartoon-png-image_31377.jpg" alt="" height="300">
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+🙍‍♂️ About Me:
+- My name is Firdavs. Surname Fayzullayev. I`m 18 years old. I'm from Uzbekistan. I know 3 languages Uzbek, Russia and English. At the moment I know Html, Css, JavaScript, Bootstrap, Python and React.
 
 💻 I'm interested in:
 - Web development
