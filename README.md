@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavs.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
+<img src="![Снимок экрана 2025-04-12 111724](https://github.com/user-attachments/assets/99393123-d9e4-4306-a0c6-5fa889478cc6)
+" alt"" />
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🙍‍♂️ About Me:
