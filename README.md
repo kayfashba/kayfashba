@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b4041c0-e20a-4b43-a154-9bf251c6596c)<h1 align="center">Hi 👋, I'm Firdavs.</h1>
+<h1 align="center">Hi 👋, I'm Firdavs.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
 <img src="![Снимок экрана 2025-04-12 111724](https://github.com/user-attachments/assets/99393123-d9e4-4306-a0c6-5fa889478cc6)
 " alt"" />
