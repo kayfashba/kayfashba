@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<img src="./animation_500_kxa883sd (1).gif" alt="">
+<img src="animation_500_kxa883sd.gif" alt="">
 
 💻 I'm interested in:
 - Web development
