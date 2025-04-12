@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Firdavs</h1>
+<h1 align="center">Hi 👋, I'm Firdavs.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<img src="https://png.pngtree.com/illustrations/20190321/ourmid/pngtree-blue-financial-technology-cartoon-png-image_31377.jpg" alt="">
+<img src="https://png.pngtree.com/illustrations/20190321/ourmid/pngtree-blue-financial-technology-cartoon-png-image_31377.jpg" alt="" height="300" class="b-r: 20px;">
 
 💻 I'm interested in:
 - Web development
