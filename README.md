@@ -15,7 +15,7 @@
 - English
 
 📫 How to reach me:
-- Telegram: https://t.me/developers_S_F
+- Telegram: https://t.me/kayfashba_10
 - Instagram: https://www.instagram.com/kayfashba_20/
 - Email: fayzullayevfirdavs15@gmail.com
 
