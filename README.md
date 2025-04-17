@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🙍‍♂️ About Me:
-- My name is Firdavs. Surname Fayzullayev. I'm from Uzbekistan. I know 3 languages Uzbek, Russia and English. At the moment I know Html, Css, JavaScript, Bootstrap, Python and React.
+- My name is Firdavs. Surname Fayzullayev. I'm from Uzbekistan. I know 3 languages Uzbek, Russia and English. If we're talking about frontend, I already know HTML, CSS, JavaScript, Bootstrap, Python, and React. You can feel free to give me projects.
 
 💻 I'm interested in:
 - Web development
