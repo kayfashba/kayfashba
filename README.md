@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firdavs Fayzullayev.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img src="https://cdn.dribbble.com/userupload/26483443/file/original-1ab4eb0e3bfcb0f812768ca9e2bc8a5a.gif" alt="adam-pw"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
 
 🙍‍♂️ About Me:
 - My name is Firdavs. Surname Fayzullayev. I'm from Uzbekistan. I know 3 languages Uzbek, Russia and English. If we're talking about frontend, I already know HTML, CSS, JavaScript, Bootstrap, Python, and React. You can feel free to give me projects.
