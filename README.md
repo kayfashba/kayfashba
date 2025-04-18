@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs Fayzullayev.</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F10796279-Office-Work-Animated-illustration&psig=AOvVaw2_yog0OEoa07c2eta2HHZy&ust=1745082980606000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjYpfSK4owDFQAAAAAdAAAAABAf" alt=""/>
+<img src="![image](https://github.com/user-attachments/assets/c96d0c69-ab8c-4b91-a4b8-a5953a433299)" alt=""/>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
 
 🙍‍♂️ About Me:
