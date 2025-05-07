@@ -16,7 +16,7 @@
 
 📫 How to reach me:
 - Telegram: https://t.me/kayfashba_10
-- Instagram: https://www.instagram.com/kayfashba_20/
+- Instagram: https://www.instagram.com/fayzullayev_f7/
 - Email: ffayzullayev2010@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
