@@ -19,4 +19,10 @@
 - Email: ffayzullayev2010@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://w7.pngwing.com/pngs/113/458/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle.png" alt="" target="_blank" width="40" height="40"> <p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
