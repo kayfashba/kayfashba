@@ -19,4 +19,4 @@
 - Email: ffayzullayev2010@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://img.favpng.com/10/16/19/javascript-portable-network-graphics-logo-clip-art-computer-icons-png-favpng-BzixGHQWZVVw1v6zPUpdt5Bk5.jpg" alt="" target="_blank" width="40" height="40" <p>
+<p align="left"> <img src="https://img.favpng.com/10/16/19/javascript-portable-network-graphics-logo-clip-art-computer-icons-png-favpng-BzixGHQWZVVw1v6zPUpdt5Bk5.jpg" alt="" target="_blank" width="40" height="40"> <p>
