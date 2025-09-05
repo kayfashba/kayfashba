@@ -14,7 +14,7 @@
 - English
 
 📫 How to reach me:
-- Telegram: https://t.me/kayfashba_10
+- Telegram: https://t.me/fayzullayevvv_f
 - Instagram: https://www.instagram.com/fayzullayevvv_f/
 - Email: ffayzullayev2010@gmail.com
 
